@@ -1,0 +1,22 @@
+﻿Revert "Vulnerability definitions for CVE-2017-8483,88"
+
+This reverts commit 1d28c2b1992f7cb16a15d556c66c4b1aa92d638a.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    repository/definitions/vulnerability/oval_com.dtcc_def_860.xml
+#	deleted:    repository/definitions/vulnerability/oval_com.dtcc_def_861.xml
+#	deleted:    repository/objects/windows/file_object/0000/oval_com.dtcc_obj_100.xml
+#	deleted:    repository/states/windows/file_state/0000/oval_com.dtcc_ste_753.xml
+#	deleted:    repository/states/windows/file_state/0000/oval_com.dtcc_ste_754.xml
+#	deleted:    repository/states/windows/file_state/0000/oval_com.dtcc_ste_755.xml
+#	deleted:    repository/tests/windows/file_test/1000/oval_com.dtcc_tst_1249.xml
+#	deleted:    repository/tests/windows/file_test/1000/oval_com.dtcc_tst_1250.xml
+#	deleted:    repository/tests/windows/file_test/1000/oval_com.dtcc_tst_1251.xml
+#	deleted:    repository/tests/windows/file_test/1000/oval_com.dtcc_tst_1252.xml
+#
+
